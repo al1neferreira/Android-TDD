@@ -6,4 +6,7 @@
     </style>
 
     <style name="Theme.AndroidTDD" parent="Base.Theme.AndroidTDD" />
+    <style name="MyButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:background">@null</item>
+    </style>
 </resources>
